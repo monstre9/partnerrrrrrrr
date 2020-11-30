@@ -32,7 +32,7 @@ message.reply('**خۆت لە ڤۆیس نیت بیمە کوێ من**');
 
 client.on("message" , message => {
 
-if(message.channel.type === 'dm') {
+if(message.channel.type === '741953208578080769') {
 
 if (message.content.startsWith("https://discord.gg/kuH4gGynSz")) {
     
