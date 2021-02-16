@@ -57,4 +57,4 @@ client.user.setGame(`reklam bomn bnera`,"http://twitch.tv/PAYWANDcamper")
 
 
 
-client.login("NzgzMTEwMTAyODQ4NzY1OTcz.X8V-Hg.fjoneDVRRqZ3uFs_rhTtqWl9_Qo");//تۆکین لێرە دانێ
+");//تۆکین لێرە دانێ
